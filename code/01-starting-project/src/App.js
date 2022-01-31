@@ -1,10 +1,12 @@
 import React from 'react';
+import Button from './Components/Button';
 
 
 function App() {
   return (
     <div>
 <h1>Does this render okay?</h1>
+<Button></Button>
     </div>
   );
 }
